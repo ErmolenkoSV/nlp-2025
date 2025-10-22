@@ -12,3 +12,4 @@ tensorboard~=2.20.0
 lightning~=2.4.0
 transformers[torch]~=4.44.2
 datasets~=4.1.0
+sklearn_crfsuite~=0.9.11
